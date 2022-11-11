@@ -8,7 +8,7 @@ spring:
     username: sa
     password:
   cook:
-    count:180
+    count: 180
 security:
   basic:
     enabled: true
