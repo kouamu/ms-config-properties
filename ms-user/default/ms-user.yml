@@ -10,3 +10,5 @@ spring:
 security:
   basic:
     enabled: true
+cook:
+  count:180
