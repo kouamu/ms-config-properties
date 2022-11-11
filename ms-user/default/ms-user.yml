@@ -7,8 +7,9 @@ spring:
     url: jdbc:h2:~/test1
     username: sa
     password:
+  cook:
+    count:180
 security:
   basic:
     enabled: true
-cook:
-  count:180
+
